@@ -1,6 +1,10 @@
-print ("Imprimindo na Tela com Python")
+print("Imprimindo na Tela com Python")
 
-nome = "teste"
+# Python é dinamicamente Tipada
+dados = "teste"
+print(type(dados))
 
-print(nome)
+dados = 5.6
+print(type(dados))
 
+print(dados)

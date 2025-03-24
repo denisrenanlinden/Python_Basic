@@ -1,7 +1,7 @@
 #For in Python Language
 
-for i in range(5):
-    print(i)
+for variavel_aqui in range(5):
+    print(variavel_aqui)
 
 
     
