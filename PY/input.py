@@ -7,6 +7,7 @@ streaming_disponivel = input("Streaming Disponivel: ")
 multiplataforma = input("Multiplataforma: ")
 
 # \n é utilizado no Python como quebra de linha.
+print("\n")
 print("Exibindo os Dados: \n")
 print("Nome do Filme: " + nome_do_filme)
 print("Ano de Lançamento: " + ano_lancamento)
