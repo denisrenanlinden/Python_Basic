@@ -12,6 +12,5 @@ print(nota_do_filme)
 print(streaming_disponivel)
 print(multiplataforma)
 
-
 tipo = type(titulo_do_filme)
 print(tipo)
