@@ -16,4 +16,10 @@ print(lista_de_alunos['idade'])
 print(lista_de_alunos['altura'])
 print(lista_de_alunos['peso'])
 print(lista_de_alunos['sexo'])
+print(lista_de_alunos.get('nome'))
+print(lista_de_alunos.get('idade'))
+print('==================================================================================================')
+
+# imprimir um elemneto da tupla que existe dentro do dicionário
+print(lista_de_alunos['sexo'][0])  # Imprime o primeiro elemento da tupla
 print('==================================================================================================')
