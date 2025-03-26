@@ -39,4 +39,12 @@ if 'Marta' in lista_de_alunos:
 # Verificando o tamanho da lista
 print(len(lista_de_alunos))  # Imprime o tamanho da lista
 
+# Ordenando a lista
+lista_de_alunos.sort()
+print(lista_de_alunos)
+
+# Invertendo a lista
+lista_de_alunos.reverse()
+print(lista_de_alunos)
+
 print('==================================================================================================')
