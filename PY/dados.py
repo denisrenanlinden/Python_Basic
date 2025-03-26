@@ -6,6 +6,7 @@ nota_do_filme = 5.6
 streaming_disponivel = "Netflix"
 multiplataforma = False
 
+print('======================')
 print(titulo_do_filme)
 print(ano_lancamento)
 print(nota_do_filme)
@@ -14,3 +15,4 @@ print(multiplataforma)
 
 tipo = type(titulo_do_filme)
 print(tipo)
+print('======================')
