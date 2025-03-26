@@ -4,7 +4,7 @@ nome_do_filme = input("Nome do Filme: ")
 ano_lancamento = int(input("Ano de Lançamento: "))
 nota_do_filme = float(input("Nota do Filme: "))
 streaming_disponivel = input("Streaming Disponivel: ")
-# multiplataforma = bool(input("Multiplataforma: ")) Maneira incorreta de tratar Boleano
+#multiplataforma = bool(input("Multiplataforma: ")) Maneira incorreta de tratar Boleano
 
 print("\n")
 print("Exibindo os Tipos de Dados: \n")
