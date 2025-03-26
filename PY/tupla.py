@@ -13,5 +13,8 @@ print(alunos_tupla[5:])  # Imprime os elementos da posição 5 até o final
 print(alunos_tupla[2:5])  # Imprime os elementos da posição 2 até a 5
 print('==================================================================================================')
 
+# Pegar o indice de um elemento da tupla
+print(alunos_tupla.index('Maria'))
+print('==================================================================================================')
 
 # alunos_tupla.append('Marta') # Não é possível adicionar mexer elementos em uma tupla
