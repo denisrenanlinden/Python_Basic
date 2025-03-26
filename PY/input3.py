@@ -6,7 +6,7 @@ nota_do_filme = float(input("Nota do Filme: "))
 streaming_disponivel = input("Streaming Disponivel: ")
 
 # Outra maneira de Printar no Python
-print("\n\n\n\n\n")
+print("\n\n")
 print(f"Nome do Filme: {nome_do_filme}")
 print(f"Ano de Lançamento: {ano_lancamento}")
 print(f"Nota do Filme: {nota_do_filme}")
