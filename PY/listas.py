@@ -47,4 +47,7 @@ print(lista_de_alunos)
 lista_de_alunos.reverse()
 print(lista_de_alunos)
 
+# remove todos os elementos da lista
+lista_de_alunos.clear()
+
 print('==================================================================================================')
