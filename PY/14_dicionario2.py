@@ -18,3 +18,10 @@ print(lista_de_alunos)
 del lista_de_alunos['cor_dos_olhos']
 print(lista_de_alunos)
 print('==================================================================================================')
+
+# Pegando as chaves e os valores do Dicionário
+print(lista_de_alunos.keys())  # Imprime as chaves do Dicionário (Object)
+print(lista_de_alunos.values())  # Imprime os valores do Dicionário (Object)
+print(lista_de_alunos.items())  # Imprime os itens do Dicionário (Object)
+print(lista_de_alunos)  # Imprime a lista de alunos (String)
+print('==================================================================================================')
