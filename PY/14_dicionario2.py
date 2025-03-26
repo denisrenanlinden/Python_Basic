@@ -17,6 +17,9 @@ print(lista_de_alunos)
 # Removendo um elemento do Dicionário
 del lista_de_alunos['cor_dos_olhos']
 print(lista_de_alunos)
+
+lista_de_alunos.pop('sexo')
+print(lista_de_alunos)
 print('==================================================================================================')
 
 # Pegando as chaves e os valores do Dicionário
