@@ -1,3 +1,5 @@
+
+
 # Comentários de Uma Linha
 
 """
@@ -6,7 +8,3 @@ de
 Várias
 Linhas
 """
-
-
-
-
