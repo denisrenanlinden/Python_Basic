@@ -19,3 +19,17 @@ lista_de_alunos = {
 print('==================================================================================================')
 print(lista_de_alunos)
 print('==================================================================================================')
+
+print(lista_de_alunos['Matheus']['idade'])
+print('==================================================================================================')
+
+# Adicionando um novo elemento no Dicionário
+lista_de_alunos['Matheus']['cor_dos_olhos'] = 'Castanho'
+print(lista_de_alunos)
+print('==================================================================================================')
+
+# Removendo um elemento do Dicionário
+del lista_de_alunos['Matheus']['cor_dos_olhos']
+lista_de_alunos['Matheus'].pop('sexo')
+print(lista_de_alunos)
+print('==================================================================================================')
