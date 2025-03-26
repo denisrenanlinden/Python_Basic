@@ -8,3 +8,12 @@ lista_de_alunos = {
     'peso': 80,
     'sexo': ('Masculino', 'Feminino', 'Outros'),
 }
+
+print('==================================================================================================')
+print(lista_de_alunos)  # Imprime a lista de alunos
+print(lista_de_alunos['nome'])
+print(lista_de_alunos['idade'])
+print(lista_de_alunos['altura'])
+print(lista_de_alunos['peso'])
+print(lista_de_alunos['sexo'])
+print('==================================================================================================')
